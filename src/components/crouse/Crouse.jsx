@@ -3,7 +3,6 @@ import {BsBookmarkHeartFill} from 'react-icons/bs';
 
 const Crouse = ({crouse, handleBookmark, handleCreditHours}) => {
     const {
-        id,
         image,
         title,
         name,

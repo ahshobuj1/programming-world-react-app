@@ -2,8 +2,9 @@
 
 import {useState} from 'react';
 import Crouses from './components/crouseData/Crouses';
-import Header from './header/Header';
+import Header from './layout/header/Header';
 import Bookmarks from './components/bookmarks/Bookmarks';
+import Footer from './layout/footer/Footer';
 
 function App() {
     const [bookmarks, setBookmarks] = useState([]);
@@ -49,7 +50,9 @@ function App() {
                     />
                 </section>
             </main>
-            <footer></footer>
+            <footer>
+                <Footer />
+            </footer>
         </>
     );
 }
