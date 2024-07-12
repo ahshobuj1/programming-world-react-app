@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/FWykWsW/ai-generated-8583249-1920.jpg",
+        "title": "Python: From Novice to Expert",
+        "name": "Alice Johnson",
+        "release_date": "2023-04-12",
+        "user": "alice",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Comprehensive guide to Python programming from beginner to expert levels.",
+        "price": 39.99,
+        "duration_hours": 15
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/8zpv9q8/boitumelo-6-SZYEy4b5d0-unsplash.jpg",
+        "title": "JavaScript Basics: A Practical Guide",
+        "name": "Bob Smith",
+        "release_date": "2022-11-30",
+        "user": "bobsmith",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Learn essential JavaScript concepts and practical applications.",
+        "price": 29.99,
+        "duration_hours": 10
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/TYswvfs/artificial-intelligence-8795203-1280.png",
+        "title": "SQL Fundamentals for Data Science",
+        "name": "Elena Brown",
+        "release_date": "2023-02-28",
+        "user": "elenabrown",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Introduction to SQL for data analysis and data science applications.",
+        "price": 34.99,
+        "duration_hours": 12
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/pKtQBKs/sparks-265850-1920.jpg",
+        "title": "Java in Action: Advanced Topics Java Action",
+        "name": "David Lee",
+        "release_date": "2023-07-15",
+        "user": "davidlee",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Advanced concepts and techniques in Java programming.",
+        "price": 49.99,
+        "duration_hours": 20
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/WG6G0DS/altumcode-Fo-Ts3nt-Ro-Is-unsplash.jpg",
+        "title": "Web Development 101: HTML, CSS, JavaScript",
+        "name": "Sophia Garcia",
+        "release_date": "2022-09-15",
+        "user": "sophiag",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Fundamentals of web development using HTML, CSS, and JavaScript.",
+        "price": 19.99,
+        "duration_hours": 8
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/ssnRxcC/ai-generated-7977128-1920.png",
+        "title": "Python for Machine Learning: Hands-On Guide",
+        "name": "Michael Clark",
+        "release_date": "2023-03-20",
+        "user": "michaelc",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Hands-on approach to using Python for machine learning projects.",
+        "price": 44.99,
+        "duration_hours": 18
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/1qwDCn7/technology-1283624-1920.jpg",
+        "title": "C++ Programming: Advanced Techniques",
+        "name": "Olivia Taylor",
+        "release_date": "2023-06-10",
+        "user": "oliviat",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Advanced techniques and best practices in C++ programming.",
+        "price": 39.99,
+        "duration_hours": 16
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/K2s6srn/analysis-1841158-1920.jpg",
+        "title": "Data Analysis with R: Practical Applications",
+        "name": "Emma Wilson",
+        "release_date": "2023-04-28",
+        "user": "emmaw",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Practical applications of data analysis using the R programming language.",
+        "price": 32.99,
+        "duration_hours": 14
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/sv3f5gq/ux-788002-1920.jpg",
+        "title": "Intro to Mobile App Development: iOS & Android",
+        "name": "Andrew Thompson",
+        "release_date": "2022-12-01",
+        "user": "andrewt",
+        "user_image": "https://i.ibb.co/WyTvj0k/richard-jaimes-s97-KYat9s-A-unsplash.jpg",
+        "description": "Introduction to mobile app development for iOS and Android platforms.",
+        "price": 24.99,
+        "duration_hours": 6
+    }
+]
